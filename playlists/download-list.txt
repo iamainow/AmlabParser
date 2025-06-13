@@ -1,0 +1,269 @@
+[
+  {
+    "urlTag": "promo-vk-photo", directory: "photo"
+  },
+  {
+    "urlTag": "style-for-portraits", directory: "photo"
+  },
+  {
+    "urlTag": "posing-nu-photo", directory: "photo"
+  },
+  {
+    "urlTag": "capture-one-colorgrading", directory: "photo"
+  },
+  {
+    "urlTag": "smm-free", directory: "photo"
+  },
+  {
+    "urlTag": "school-portrait", directory: "photo"
+  },
+  {
+    "urlTag": "vk-prom-tools", directory: "photo"
+  },
+  {
+    "urlTag": "headshots", directory: "photo"
+  },
+  {
+    "urlTag": "mobile-photography", directory: "photo"
+  },
+  {
+    "urlTag": "intelligent-photography-technics", directory: "photo"
+  },
+  {
+    "urlTag": "intelligent-photography-light", directory: "photo"
+  },
+  {
+    "urlTag": "intelligent-photography", directory: "photo"
+  },
+  {
+    "urlTag": "intelligent-photography-composition", directory: "photo"
+  },
+  {
+    "urlTag": "sarakhanov-portrait", directory: "photo"
+  },
+  {
+    "urlTag": "understanding-lightroom", directory: "photo"
+  },
+  {
+    "urlTag": "photoshop-t3", directory: "photo"
+  },
+  {
+    "urlTag": "photoshop-kids-photo", directory: "photo"
+  },
+  {
+    "urlTag": "photography-foundation-technics", directory: "photo"
+  },
+  {
+    "urlTag": "photography-foundation-simple-portrait", directory: "photo"
+  },
+  {
+    "urlTag": "photography-foundation-portrait-in-different-lights", directory: "photo"
+  },
+  {
+    "urlTag": "photography-foundation-street", directory: "photo"
+  },
+  {
+    "urlTag": "photography-foundation-landscape", directory: "photo"
+  },
+  {
+    "urlTag": "natural-light", directory: "photo"
+  },
+  {
+    "urlTag": "flash-foundation", directory: "photo"
+  },
+  {
+    "urlTag": "flash-practice", directory: "photo"
+  },
+  {
+    "urlTag": "food-photo-natural-light", directory: "photo"
+  },
+  {
+    "urlTag": "food-photo-2", directory: "photo"
+  },
+  {
+    "urlTag": "food-photo-3", directory: "photo"
+  },
+  {
+    "urlTag": "editorial-for-magazine", directory: "photo"
+  },
+  {
+    "urlTag": "light-in-fashion-photo", directory: "photo"
+  },
+  {
+    "urlTag": "happy-photographer", directory: "photo"
+  },
+  {
+    "urlTag": "practice-photography", directory: "photo"
+  },
+  {
+    "urlTag": "family-photo", directory: "photo"
+  },
+  {
+    "urlTag": "sarakhanov-portrait-p1", directory: "photo"
+  },
+  {
+    "urlTag": "wedding-photography", directory: "photo"
+  },
+  {
+    "urlTag": "wedding-grading-01", directory: "photo"
+  },
+  {
+    "urlTag": "wedding-grading-02", directory: "photo"
+  },
+  {
+    "urlTag": "smm-i-content", directory: "photo"
+  },
+  {
+    "urlTag": "post-prod-davinci", directory: "video"
+  },
+  {
+    "urlTag": "visual-effects", directory: "video"
+  },
+  {
+    "urlTag": "logo-shape-animation", directory: "video"
+  },
+  {
+    "urlTag": "colorgrading-foundation-premiere", directory: "video"
+  },
+  {
+    "urlTag": "text-animation", directory: "video"
+  },
+  {
+    "urlTag": "dynamic-video", directory: "video"
+  },
+  {
+    "urlTag": "audio-for-video", directory: "video"
+  },
+  {
+    "urlTag": "cinema-light", directory: "video"
+  },
+  {
+    "urlTag": "all-about-premiere-pro", directory: "video"
+  },
+  {
+    "urlTag": "video-light-foundation", directory: "video"
+  },
+  {
+    "urlTag": "davinci-setting", directory: "video"
+  },
+  {
+    "urlTag": "match-color-grading-pro", directory: "video"
+  },
+  {
+    "urlTag": "davinci-foundation", directory: "video"
+  },
+  {
+    "urlTag": "davinci-levelup", directory: "video"
+  },
+  {
+    "urlTag": "davinci-color-clip", directory: "video"
+  },
+  {
+    "urlTag": "adobe-premiere-start", directory: "video"
+  },
+  {
+    "urlTag": "montage-foundation", directory: "video"
+  },
+  {
+    "urlTag": "adobe-premiere-fast-editing", directory: "video"
+  },
+  {
+    "urlTag": "colorgrade-practice-1", directory: "video"
+  },
+  {
+    "urlTag": "colorgrade-practice-2", directory: "video"
+  },
+  {
+    "urlTag": "finalcut-basic", directory: "video"
+  },
+  {
+    "urlTag": "after-effects-foundation", directory: "video"
+  },
+  {
+    "urlTag": "sex-with-hair", directory: "makeup"
+  },
+  {
+    "urlTag": "visage-foundation-ideal-skin", directory: "makeup"
+  },
+  {
+    "urlTag": "visage-foundation-lips-eyes-eyebrows", directory: "makeup"
+  },
+  {
+    "urlTag": "photographer-visagist", directory: "makeup"
+  },
+  {
+    "urlTag": "visage-materials", directory: "makeup"
+  },
+  {
+    "urlTag": "visage-faces-part-one", directory: "makeup"
+  },
+  {
+    "urlTag": "faces-problem-eyes", directory: "makeup"
+  },
+  {
+    "urlTag": "smoky-eyes", directory: "makeup"
+  },
+  {
+    "urlTag": "visage-color-1", directory: "makeup"
+  },
+  {
+    "urlTag": "visage-color-2", directory: "makeup"
+  },
+  {
+    "urlTag": "visage-color-3", directory: "makeup"
+  },
+  {
+    "urlTag": "visage-color-4", directory: "makeup"
+  },
+  {
+    "urlTag": "wedding-visage-classic", directory: "makeup"
+  },
+  {
+    "urlTag": "wedding-visage-complex", directory: "makeup"
+  },
+  {
+    "urlTag": "wedding-visage-vostok", directory: "makeup"
+  },
+  {
+    "urlTag": "photoshop-for-artists", directory: "illustration"
+  },
+  {
+    "urlTag": "illustration-foundation", directory: "illustration"
+  },
+  {
+    "urlTag": "digital-painting", directory: "illustration"
+  },
+  {
+    "urlTag": "line-art", directory: "illustration"
+  },
+  {
+    "urlTag": "illustration-theory", directory: "illustration"
+  },
+  {
+    "urlTag": "illustration-craft", directory: "illustration"
+  },
+  {
+    "urlTag": "illustration-character", directory: "illustration"
+  },
+  {
+    "urlTag": "calligraphy", directory: "illustration"
+  },
+  {
+    "urlTag": "wedding-decor", directory: "decor"
+  },
+  {
+    "urlTag": "business-wedding-decor", directory: "decor"
+  },
+  {
+    "urlTag": "interior-design-project-steps", directory: "decor"
+  },
+  {
+    "urlTag": "interior-design-budget", directory: "decor"
+  },
+  {
+    "urlTag": "food-photography", directory: "photo"
+  },
+  {
+    "urlTag": "portrait-in-environment", directory: "photo"
+  }
+]
